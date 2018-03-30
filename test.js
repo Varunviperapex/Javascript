@@ -1,0 +1,1 @@
+document.write("we are now using js ");
